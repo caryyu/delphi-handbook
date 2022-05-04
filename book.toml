@@ -1,0 +1,11 @@
+[output.html.print]
+enable = false
+page-break = false
+
+[output.html.fold]
+enable = false
+level = 0
+
+[output.html.search]
+enable = false
+

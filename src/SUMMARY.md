@@ -16,7 +16,8 @@
   * [Delphi 接口](面向对象/接口.md)
   * [Delphi 访问修饰符](面向对象/访问修饰符.md)
 * [Delphi 模块与包](模块与包/介绍.md)
-* [Delphi VCL 可视化](VLC可视化/介绍.md)
-  * [Delphi Win32 组件](VLC可视化/Win32组件.md)
-  * [Delphi TStringGrid](VLC可视化/TStringGrid.md)
-  * [Delphi TValueListEditor](VLC可视化/TValueListEditor.md)
+* [Delphi VCL 可视化](VCL可视化/介绍.md)
+  * [Delphi Win32 组件](VCL可视化/Win32组件.md)
+  * [Delphi TStringGrid](VCL可视化/TStringGrid.md)
+  * [Delphi TValueListEditor](VCL可视化/TValueListEditor.md)
+  
